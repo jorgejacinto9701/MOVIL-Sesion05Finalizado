@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Semana04</string>
+
+    <string name="txt_registro_de_editorial">Registro Editorial</string>
+    <string-array name="txtPais">
+        <item>[Seleccione]</item>
+        <item>Ecuador</item>
+        <item>Colombia</item>
+        <item>Alemania</item>
+        <item>Francia</item>
+    </string-array>
+
+</resources>
